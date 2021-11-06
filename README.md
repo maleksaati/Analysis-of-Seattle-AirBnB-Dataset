@@ -1,7 +1,8 @@
 
 **Airbnb Seattle Data Analysis Price Prediction **
 
-**Dataset**  The data about Airbnb in Seattle can be downloaded from Kaggle: ([https://www.kaggle.com/airbnb/seattle/data](https://www.kaggle.com/airbnb/seattle/data)) we use in this analysis 2 files:
+**Dataset**  The data about Airbnb in Seattle can be downloaded from Kaggle: ([https://www.kaggle.com/airbnb/seattle/data](https://www.kaggle.com/airbnb/seattle/data)) 
+<br/>we use in this analysis 2 files:
 
  -  listings.csv , contains data about homestay.
  -  calendar.csv, contains calendar and price for listings homestay.
