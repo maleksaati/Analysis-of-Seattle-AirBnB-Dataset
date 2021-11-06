@@ -6,7 +6,7 @@ The data about Airbnb in Seattle can be downloaded from Kaggle:  (https://www.ka
 we use in this analysis 2 files:
 
  1. listings.csv , contains data about homestay. 
- 2. calendar.csv, contains calendar a nd price for listings homestay.
+ 2. calendar.csv, contains calendar and price for listings homestay.
 
 **Project Motivation** 
 
